@@ -1,0 +1,8 @@
+C:\Users\far\source\repos\ReadOnly_Consotant_Static\ReadOnly_Consotant_Static\bin\Debug\ReadOnly_Consotant_Static.exe.config
+C:\Users\far\source\repos\ReadOnly_Consotant_Static\ReadOnly_Consotant_Static\bin\Debug\ReadOnly_Consotant_Static.exe
+C:\Users\far\source\repos\ReadOnly_Consotant_Static\ReadOnly_Consotant_Static\bin\Debug\ReadOnly_Consotant_Static.pdb
+C:\Users\far\source\repos\ReadOnly_Consotant_Static\ReadOnly_Consotant_Static\obj\Debug\ReadOnly_Consotant_Static.csproj.AssemblyReference.cache
+C:\Users\far\source\repos\ReadOnly_Consotant_Static\ReadOnly_Consotant_Static\obj\Debug\ReadOnly_Consotant_Static.csproj.SuggestedBindingRedirects.cache
+C:\Users\far\source\repos\ReadOnly_Consotant_Static\ReadOnly_Consotant_Static\obj\Debug\ReadOnly_Consotant_Static.csproj.CoreCompileInputs.cache
+C:\Users\far\source\repos\ReadOnly_Consotant_Static\ReadOnly_Consotant_Static\obj\Debug\ReadOnly_Consotant_Static.exe
+C:\Users\far\source\repos\ReadOnly_Consotant_Static\ReadOnly_Consotant_Static\obj\Debug\ReadOnly_Consotant_Static.pdb
